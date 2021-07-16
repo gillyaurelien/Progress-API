@@ -22,3 +22,5 @@ You can reverse the Progress Bar to grow from Right to Left by setting PROP:Layo
 Below is a screen capture of the example project window showing the Marquee animation.
 
 ![example](images/readme1.gif)
+
+The above Animated GIF Screen Capture was made using https://gifcap.dev/
